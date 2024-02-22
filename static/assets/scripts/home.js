@@ -60,8 +60,9 @@ document.onkeydown = function (evt) {
 
 let splashtext = [
   'Over 7 Million Users in 2023!',
+  'Most favored proxy in Greenville County School District',
   'Fastest growing proxy server!',
-  'Made by Bubbo!',
+  'Made by CloudGui/palm_0il!',
   'Check out discord.gg/interstellar :)',
 ]
 
