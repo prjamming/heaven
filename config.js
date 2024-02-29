@@ -1,5 +1,5 @@
 const config = {
-  challenge: true, // Set to true if you want to enable password protection.
+  challenge: false, // Set to true if you want to enable password protection.
   users: { // You can add multiple users by doing username: 'password'.
     prjamming: '0v3rth3t0p!',
     slthgmr333: 'Wyatt135',
